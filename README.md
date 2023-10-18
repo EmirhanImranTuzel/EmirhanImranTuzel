@@ -1,5 +1,5 @@
 <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
-<p align="center">Hey there, I'm Emirhan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></p>
+<p align="center"><b>Hey there, I'm Emirhan</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="1%"></p>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 ## <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="4%"> About Me <img src="https://previews.123rf.com/images/yayayoy/yayayoy1507/yayayoy150700003/42080144-emoticon-pointing-at-himself-with-both-hands-pick-me-.jpg" width="4%">
