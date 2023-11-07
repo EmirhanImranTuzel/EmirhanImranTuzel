@@ -48,7 +48,7 @@
 <p><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vs-code" title="vs-code" height="55"/> <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="jupyter" title="jupyter" height="55"/><br></p>
 
 
-## <img src="https://emoji.gg/assets/emoji/4601_github.png" width="64px" height="64px" alt="github"> My GitHub Data
+## <img src="https://emoji.gg/assets/emoji/4601_github.png" width="32px" height="32px" alt="github"> My GitHub Data
 
 ## Noo!!! Snake eats all my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30"> 
 
