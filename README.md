@@ -30,7 +30,7 @@
 
 ## 💻 DevOps 
 
-<p><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="60"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="60"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="60"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="60"/> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" height="60"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terrafor" height="60"/> <img src="https://user-images.githubusercontent.com/33158051/103466428-2bd48f00-4d13-11eb-8d30-4602a442bfad.png" alt="maven" title="maven" height="60"/></p>
+<p><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" height="60"/> <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" height="60"/> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="kubernetes" height="60"/> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" height="60"/> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" height="60"/> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terrafor" height="60"/> <img src="https://user-images.githubusercontent.com/33158051/103466428-2bd48f00-4d13-11eb-8d30-4602a442bfad.png" alt="maven" title="maven" height="50"/></p>
          
 ## 💻 Database Management
  
