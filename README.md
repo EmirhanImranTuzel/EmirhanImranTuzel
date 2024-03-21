@@ -1,4 +1,4 @@
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+ş<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
 <p align="center"><b>Hey there, I'm Emirhan</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="2%"></p>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
@@ -59,3 +59,4 @@
     <img src="https://raw.githubusercontent.com/EmirhanImranTuzel/EmirhanImranTuzel/main/profile-3d-contrib/profile-night-rainbow.svg"/>
   </a>
 </div>
+.
